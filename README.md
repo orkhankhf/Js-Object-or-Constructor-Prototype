@@ -1,1 +1,1 @@
-# Js-Object-or-Constructor-Prototype
+# Object or Constructor Prototype
